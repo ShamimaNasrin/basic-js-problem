@@ -17,4 +17,4 @@ const getMaleNames = (arr) => {
 
 const maleNames = getMaleNames(people);
 
-console.log(maleNames);
+console.log("Male Names:", maleNames);

@@ -16,4 +16,4 @@ const sortCarsByYear = (carArray) => {
 
 const sortedCars = sortCarsByYear(cars);
 
-console.log(sortedCars);
+console.log("Sorted Cars:", sortedCars);
