@@ -12,4 +12,4 @@ const sumEvenNumbers = (arr) => {
 
 const result = sumEvenNumbers(numbers);
 
-console.log("Even Numbers:", result);
+console.log("Sum of Even Numbers:", result);
